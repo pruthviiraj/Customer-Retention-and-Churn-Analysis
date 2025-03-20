@@ -1,4 +1,4 @@
-# Customer-Retention-and-Churn-Analysis
+# Telecom Call Analysis & Customer Churn Analysis
 -----------------------------------------
 # Key Insights
 
